@@ -1,0 +1,65 @@
+body {
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: #1F2937;
+    color: #ffffff;
+    font-family: 'Karla', sans-serif;
+}
+
+.divider-el {
+    width: 446px;
+    height: 0px;
+    border: 1px solid #2F3E53;
+    margin-bottom: 20px;
+}
+
+h1 {
+    height: 80px;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+h3 {
+    color: #D5D4D8;
+    font-weight: 400;
+    size: 20px;
+    margin-top: -20px;
+    margin-bottom: 50px;
+}
+
+span {
+    color: #4ADF86;
+    display: block;
+}
+
+button {
+   background-color: #10B981;
+   color: #ffffff;
+   border: none;
+   width: 190px;
+   height: 40px;
+   padding: 9px 17px 9px 15px;
+   border-radius: 6px; 
+   margin-bottom: 20px;
+}
+
+.generated-pass {
+    text-align: center;
+    line-height: 30px;
+    size: 16px;
+    width: 190px;
+    height: 30px;
+    color: #55F991;
+    font-family: 'Inter', sans-serif;
+    background-color: #273549;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 4px 15px;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+}
